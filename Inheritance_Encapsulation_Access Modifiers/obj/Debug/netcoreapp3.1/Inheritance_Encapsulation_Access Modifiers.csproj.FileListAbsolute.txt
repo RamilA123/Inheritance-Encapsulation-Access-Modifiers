@@ -1,0 +1,14 @@
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.exe
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.deps.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.runtimeconfig.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.runtimeconfig.dev.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.csproj.AssemblyReference.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.AssemblyInfoInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.AssemblyInfo.cs
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Inheritance_Encapsulation_Access Modifiers\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation_Access Modifiers.genruntimeconfig.cache
